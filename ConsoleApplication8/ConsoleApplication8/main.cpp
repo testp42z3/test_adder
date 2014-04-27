@@ -1,5 +1,6 @@
 #include "includes.h"
 #include "output.h"
+#include "mult.h"
 #include "adder.h"
 
 void main()
