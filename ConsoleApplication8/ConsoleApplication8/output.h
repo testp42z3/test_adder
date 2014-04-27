@@ -1,3 +1,3 @@
 #include "includes.h"
 
-void test();
+void output();
