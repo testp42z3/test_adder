@@ -1,6 +1,6 @@
 #include "output.h"
 
-void output()
+void output(int a)
 {
 	cout << MODULE;
 }
